@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:12:30.075449
+#+DATE: 2015-08-30 20:12:32.006690
 #+TITLE: 順權方便經
 #+PROPERTY: CBETA_ID T14n0565
 #+PROPERTY: ID KR6i0197
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 565
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0197_T_000-0921c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0197_T_002-0926a> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《順權方便經》卷下¶
+《順權方便經》卷下¶
 ¶
 西晉月支三藏竺法護譯¶
 
-4假號品
-:PROPERTIES:
-:head: 假號品第四
-:END:
-¶
+假號品第四¶
 
 於是，須菩提謂女言：「姊寧出門有夫婿乎？」
 
