@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 順權方便經
+#+DATE: 2015-08-30 20:12:30.288577
+#+PROPERTY: JUAN 0
